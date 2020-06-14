@@ -13,7 +13,7 @@ I listened to Tomnomnom's nahamcon talk about wordlists and was really intrigued
 ## Requirements
 In order to make this script work there are a few programs that you need to have installed.
 
-Links to the needed programs are:\
+Links to the needed programs are:
 Program | Installation
 ------------ | -------------
 gau | GO111MODULE=on go get -u -v github.com/lc/gau
