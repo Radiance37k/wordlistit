@@ -14,7 +14,7 @@ I listened to Tomnomnom's nahamcon talk about wordlists and was really intrigued
 In order to make this script work there are a few programs that you need to have installed.\
 
 Links to the needed programs are:
----|---
+------------ | -------------
 gau | GO111MODULE=on go get -u -v github.com/lc/gau
 unfurl | https://github.com/tomnomnom/unfurl
 tok | https://github.com/tomnomnom/hacks/tree/master/tok
