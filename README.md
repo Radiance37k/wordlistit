@@ -11,9 +11,9 @@ I listened to Tomnomnom's nahamcon talk about wordlists and was really intrigued
 `git clone https://github.com/Radiance37k/wordlistit.git`
 
 ## Requirements
-In order to make this script work there are a few programs that you need to have installed.\
+In order to make this script work there are a few programs that you need to have installed.
 
-Links to the needed programs are:
+Links to the needed programs are:\
 ------------ | -------------
 gau | GO111MODULE=on go get -u -v github.com/lc/gau
 unfurl | https://github.com/tomnomnom/unfurl
